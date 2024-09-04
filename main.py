@@ -23,3 +23,9 @@ while True:
     if j >100:
         
         break
+
+tea_recipe = ["włącz czajnik", "znajdź opakowanie herbaty", "zalej herbatę", "nalej wody do czajnika", "wyjmij kubek", "włóż herbatę do kubka"]
+print(tea_recipe)
+print()
+tea_recipe_sorted = [tea_recipe[3], tea_recipe[0], tea_recipe[4], tea_recipe[1], tea_recipe[5], tea_recipe[2]]
+print(tea_recipe_sorted)
