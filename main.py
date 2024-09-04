@@ -1,3 +1,4 @@
+"""
 list1 = ['chleb', 'bułki', 'pączek']
 list2 = ['marchew', 'seler', 'rukola']
 dict1 = {'piekarnia': list1, 'warzywniak': list2}
@@ -29,3 +30,5 @@ print(tea_recipe)
 print()
 tea_recipe_sorted = [tea_recipe[3], tea_recipe[0], tea_recipe[4], tea_recipe[1], tea_recipe[5], tea_recipe[2]]
 print(tea_recipe_sorted)
+"""
+print("special greetings")
